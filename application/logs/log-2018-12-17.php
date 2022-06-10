@@ -1,0 +1,10 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-12-17 10:29:13 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-12-17 10:52:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-12-17 10:55:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-12-17 10:56:16 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-12-17 10:56:26 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-12-17 10:58:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-12-17 12:20:09 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-12-17 12:47:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532

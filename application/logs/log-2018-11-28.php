@@ -1,0 +1,13 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-28 04:24:02 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /home/promotionalwears/public_html/invoice/system/libraries/Form_validation.php 1234
+ERROR - 2018-11-28 04:24:02 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/promotionalwears/public_html/invoice/system/core/Exceptions.php:271) /home/promotionalwears/public_html/invoice/system/helpers/url_helper.php 564
+ERROR - 2018-11-28 07:01:20 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /home/promotionalwears/public_html/invoice/system/libraries/Form_validation.php 1234
+ERROR - 2018-11-28 07:01:20 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/promotionalwears/public_html/invoice/system/core/Exceptions.php:271) /home/promotionalwears/public_html/invoice/system/helpers/url_helper.php 564
+ERROR - 2018-11-28 07:52:31 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /home/promotionalwears/public_html/invoice/system/libraries/Form_validation.php 1234
+ERROR - 2018-11-28 07:52:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/promotionalwears/public_html/invoice/system/core/Exceptions.php:271) /home/promotionalwears/public_html/invoice/system/helpers/url_helper.php 564
+ERROR - 2018-11-28 08:01:22 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-11-28 08:27:27 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-11-28 08:29:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-11-28 08:34:08 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
+ERROR - 2018-11-28 08:36:06 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' /home/promotionalwears/public_html/invoice/system/core/CodeIgniter.php 532
