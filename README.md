@@ -35,7 +35,7 @@ To login, I am going to provide the user-email ids and password below.
 
 **System Administrator Account :**
 
-email : admin@example.com
+email : admin@gmail.com.com
 
 password : admin
 
